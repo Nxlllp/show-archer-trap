@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "show-archer-trap"
+    },
+    "supportUrl": "https://github.com/Nxlllp/show-archer-trap/auto-fishing",
+    "servers": ["https://raw.githubusercontent.com/Nxlllp/show-archer-trap/master/"],
+    "name": "show-archer-trap",
+    "description": ""
+}
